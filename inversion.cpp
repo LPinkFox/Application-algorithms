@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int n, Q;
-int A[1000001];
+int A[100001];
 int main()
 {
     cin >> n;
